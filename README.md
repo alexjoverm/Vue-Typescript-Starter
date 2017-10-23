@@ -1,6 +1,6 @@
 # Vue TypeScript Starter
 
-Basic starter based on [Webpack](https://github.com/vuejs-templates/webpack) from [Vue cli](https://github.com/vuejs/vue-cli)
+Basic starter based on [Webpack](https://github.com/vuejs-templates/webpack) from [Vue cli](https://github.com/vuejs/vue-cli) used in the course **[Use TypeScript to Develop Vue.js Web Applications](https://egghead.io/courses/use-typescript-to-develop-vue-js-web-applications)**
 
 ## How to TypeScriptify your Vue project
 
